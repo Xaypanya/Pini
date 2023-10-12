@@ -1,29 +1,59 @@
-# ohmypinia
+# Pini - Task List and To-Do List Application
 
-This template should help get you started developing with Vue 3 in Vite.
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## Recommended IDE Setup
+Pini is a user-friendly task management application that helps you organize your tasks and to-do lists efficiently. Stay productive, manage your daily chores, and prioritize your work with ease.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+## Table of Contents
 
-## Customize configuration
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Features
 
-## Project Setup
+- Create and manage your to-do lists and tasks.
+- Prioritize tasks to stay productive.
+- User-friendly interface for a seamless task management experience.
 
-```sh
-npm install
-```
+## Installation
 
-### Compile and Hot-Reload for Development
+To get started with Pini, follow these steps:
 
-```sh
-npm run dev
-```
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Xaypanya/Pini.git
+   ```
+2. Install the required dependencies:
+  ```bash
+   cd pini
+   npm install
+  ```
+3. Start the application:
+    ```bash
+    npm start
+    ```
 
-### Compile and Minify for Production
+## Usage
 
-```sh
-npm run build
-```
+1. Launch the Pini application.
+2. Create a new list or add tasks to existing lists.
+3. Prioritize your tasks and stay organized.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to Pini, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature-name`
+3. Make your changes and commit them: `git commit -m 'Add new feature'`
+4. Push to your branch: `git push origin feature/your-feature-name`
+5. Create a pull request.
+
+Please make sure to follow our [Code of Conduct](CODE_OF_CONDUCT.md) and our [Contribution Guidelines](CONTRIBUTING.md).
+
+## License
+
+Pini is licensed under the [MIT License](LICENSE).
