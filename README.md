@@ -27,14 +27,14 @@ To get started with Pini, follow these steps:
    git clone https://github.com/Xaypanya/Pini.git
    ```
 2. Install the required dependencies:
-  ```bash
+   ```bash
    cd pini
    npm install
-  ```
+   ```
 3. Start the application:
-    ```bash
+   ```bash
     npm start
-    ```
+   ```
 
 ## Usage
 
