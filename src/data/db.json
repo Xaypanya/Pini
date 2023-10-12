@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "buy some milk",
+      "isFav": true
+    },
+    {
+      "id": 3,
+      "title": "do laundry",
+      "isFav": true
+    },
+    {
+      "title": "grap some food",
+      "isFav": false,
+      "id": 645
+    }
+  ]
+}

@@ -25,7 +25,7 @@ import { useTaskStore } from '../stores/TaskStore'
                 taskStore.toggleFav(id)
             }
 
-            return { taskStore, deleteTask, toggleFav }
+            return { taskStore, deleteTask, toggleFav}
         }
     }
 </script>
