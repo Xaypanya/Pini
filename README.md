@@ -1,6 +1,6 @@
 # Pini - Task List and To-Do List Application
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/license/cpal_1-0/)
 
 Pini is a user-friendly task management application that helps you organize your tasks and to-do lists efficiently. Stay productive, manage your daily chores, and prioritize your work with ease.
 
@@ -52,8 +52,7 @@ Contributions are welcome! If you'd like to contribute to Pini, please follow th
 4. Push to your branch: `git push origin feature/your-feature-name`
 5. Create a pull request.
 
-Please make sure to follow our [Code of Conduct](CODE_OF_CONDUCT.md) and our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
-Pini is licensed under the [MIT License](LICENSE).
+Pini is licensed under the [MIT License](https://opensource.org/license/cpal_1-0/).
